@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-&nbsp;&nbsp;&nbsp;&nbsp;╔══════════════════════════════════════╗<br>
+&nbsp;&nbsp;&nbsp;&nbsp;╔═══════════════════════════════╗<br>
 &nbsp;&nbsp;&nbsp;&nbsp;║&nbsp;&nbsp;打屁股&nbsp;→&nbsp;求饶&nbsp;→&nbsp;崩溃&nbsp;→&nbsp;投降&nbsp;→&nbsp;撒娇&nbsp;║<br>
-&nbsp;&nbsp;&nbsp;&nbsp;╚══════════════════════════════════════╝
+&nbsp;&nbsp;&nbsp;&nbsp;╚═══════════════════════════════╝
 </p>
 
 <p align="center"><i>One trigger phrase. Six layers of psychological warfare.</i></p>
